@@ -1,0 +1,10 @@
+thread_limit = 4
+clockwork_accounts ="accounts.txt"
+jobsf = "jobs.txt"
+s_jobsf = "s_jobs.txt"
+f_jobsf = "f_jobs.txt"
+bodyf = "body.txt"
+linkf = "links.txt"
+senderf = "senders.txt"
+limit_amount= 1
+timing = 2
